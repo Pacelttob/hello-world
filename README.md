@@ -1,2 +1,4 @@
 # hello-world
-this is a test repository
+
+
+this will begin a long unending journey to monetize my time and generate value for shareholders
